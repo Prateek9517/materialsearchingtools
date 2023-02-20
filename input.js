@@ -457,7 +457,13 @@ const LCS = `[
     }
 ]`;
 
-const Non_Ferous = `[]`;
+const Non_Ferous = `[
+    "Material_Name": "SS303",
+        "Young_Modulus": 193,
+        "Poisson_Ratio": 0.28,
+        "Percentage_Carbon": 0.15,
+        "Density": 8.03
+]`;
 const Cast_Iron = `[]`;
 const Stainless_Steel = `[
     {
